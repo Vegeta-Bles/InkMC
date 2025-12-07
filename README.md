@@ -36,7 +36,7 @@ Clean structure, readable code, no messy internals.
 
 - First, run this:
  ```bash
-java -jar InkMC.jar
+java -jar Ink-(version).jar
 ```
 
 - Then, place plugins in:
